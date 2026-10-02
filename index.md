@@ -1,52 +1,63 @@
 ---
 layout: home
-title: "Your Name"
+title: "Nagwa Khordagui"
 ---
 
-# Your Name
 
-Data Scientist | Economist | PhD Researcher
 
-I work at the intersection of economics, data science, and public policy. My research uses causal inference, statistical modeling, and machine learning to study labor markets, social systems, and decision-making under uncertainty.
+Applied Economist (PhD) | Econometrics & Machine Learning | Causal Inference | Predictive Modeling
+
 
 ## About
 
-I am a PhD researcher with a strong interest in applying rigorous quantitative methods to real-world economic and policy questions. My work combines economic reasoning with modern data science tools to generate insight into behavior, institutions, and systems-level change.
+I am a Senior Economist (PhD) at the US Department of Transportation - Office of Inspector General with expertise in applied microeconomics, predictive modeling, policy analysis, causal inference and empirical IO.  My work is data-driven, combining econometrics, spatial analysis and machine learning to deliver insights and inform senior leadership and stakeholders. My contributions have been recognized with awards from the US Department of Transportation - Office of Inspector General, the Antitrust Division of the US Department of Justice and the Council of Inspectors General on Integrity and Efficiency.
 
-## Research Interests
+This is a personal account. Any views expressed here are my own and do not necessarily reflect the views or positions of the U.S. Department of Transportation, its Office of Inspector General, or the federal government.
 
-- Causal inference and policy evaluation
-- Labor economics and inequality
-- Development and public economics
-- Data science for social impact
-- Machine learning for economic analysis
-- Time-series and panel data methods
 
-## Methods
 
-- Econometrics and causal identification
-- Bayesian and frequentist statistical modeling
-- Machine learning and predictive analytics
-- Data visualization and communication
-- Python, R, and reproducible research workflows
+## Econometrics & Causal Inference:
+⋄ Causal inference & quasi-experimental design: Difference-in-Differences, Synthetic Control, Synthetic Difference-in-Differences, Instrumental Variables
+⋄ Panel and cross-sectional data analysis; Discrete choice analysis
+⋄ Time-series analysis and forecasting
 
-## Selected Areas of Focus
+## Machine Learning & Data Analysis:
+⋄ Supervised and unsupervised machine learning
+⋄ Predictive modeling; Spatial analysis; Network analysis
+⋄ Analysis and management of large, complex datasets
 
-- Measurement of economic opportunity and mobility
-- Policy evaluation and program impact
-- Decision support using observational and administrative data
-- Quantitative analysis of social and economic systems
+## Programming & Analytical Tools:
+⋄ Python; Stata; SQL; R; ArcGIS
 
 ## Education
 
-- PhD in Economics / Data Science, [University Name], [Expected Year]
-- M.S. or B.S. in [Field], [University Name], [Year]
+- PhD in Economics, University of California Irvine
+- MA, Economics, University of California, Irvine
+- MA, Financial Economics, American University of Beirut
+- BA, Economics, High Distinction, American University of Beirut (minor: Computer Science)
 
 ## Experience
 
-- Researcher / Data Scientist in [Institution or Lab]
-- Quantitative analyst focused on policy, markets, and social outcomes
-- Collaboration across economics, data science, and applied research teams
+US Department of Transportation – Office of Inspector General (USDOT-OIG) 2019 – Present
+Senior Economist (2022 – Present) & Economist (2019 – 2022)
+⋄ Led end-to-end empirical analysis of potentially anticompetitive bidding in federal highway
+procurement using unsupervised machine learning; associated findings identified over $1 billion in
+funds put to better use; recognized with multiple awards including the Antitrust Division Award of
+Distinction (DOJ, 2024)
+⋄ Evaluated sensitivity analyses of financial projections to external factors for FAA’s NextGen aviation
+modernization program
+⋄ Identified multiple opportunities to apply quantitative methods, machine learning, and automation to
+improve workflow efficiency and strengthen fraud detection; designed the workflow and implemented
+the model estimation tools
+⋄ Translated highly technical econometric and machine learning findings into clear reports and
+visualizations for non-technical decision-makers, senior agency leadership, and the public
+⋄ Collaborated in cross-disciplinary teams of economists, statisticians, auditors, and subject-matter
+experts; contributed to agency-wide working groups on AI and machine learning adoption
+⋄ Prepared briefs, maps, and geospatial visualizations to communicate findings to internal teams and
+external stakeholders
+⋄ Performed spatial analysis and visualizations to uncover structures at risk of flooding
+
+University of California, Irvine (UCI): Teaching Assistant 2014 – 2019
 
 ## Contact
 
