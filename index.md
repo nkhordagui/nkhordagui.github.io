@@ -1,20 +1,20 @@
 ---
 layout: home
-title: "Nagwa Khordagui"
+title: ""
 ---
 
 
 
 Applied Economist (PhD) | Econometrics & Machine Learning | Causal Inference | Predictive Modeling
 
-
+<br>
 ## About
 
 I am a Senior Economist (PhD) at the US Department of Transportation - Office of Inspector General with expertise in applied microeconomics, predictive modeling, policy analysis, causal inference and empirical IO.  My work is data-driven, combining econometrics, spatial analysis and machine learning to deliver insights and inform senior leadership and stakeholders. My contributions have been recognized with awards from the US Department of Transportation - Office of Inspector General, the Antitrust Division of the US Department of Justice and the Council of Inspectors General on Integrity and Efficiency.
 
 This is a personal account. Any views expressed here are my own and do not necessarily reflect the views or positions of the U.S. Department of Transportation, its Office of Inspector General, or the federal government.
 
-
+<br>
 ## Methods & Skills
 
 ### Econometrics & Causal Inference:
@@ -30,7 +30,7 @@ This is a personal account. Any views expressed here are my own and do not neces
 ### Programming & Analytical Tools:
 - Python; Stata; SQL; R; ArcGIS
 
-
+<br>
 ## Education
 
 - PhD in Economics, University of California Irvine
@@ -38,7 +38,7 @@ This is a personal account. Any views expressed here are my own and do not neces
 - MA, Financial Economics, American University of Beirut
 - BA, Economics, High Distinction, American University of Beirut (minor: Computer Science)
 
-
+<br>
 ## Experience
 
 ### US Department of Transportation – Office of Inspector General (USDOT-OIG) 2019 – Present
@@ -62,12 +62,12 @@ external stakeholders
 
 ### University of California, Irvine (UCI)### 
 *Teaching Assistant 2014 – 2019*
-
+<br>
 ## Awards
 - Award for Excellence, *Council of Inspectors General on Integrity & Efficiency* 2025
 - The Antitrust Division Award of Distinction, *US Department of Justice 2024*
 - Exemplary Achievement Award, *US Department of Transportation -Office of Inspector General* 2022
-
+<br>
 ## Contact
 
 - Email: [your.email@example.com]
