@@ -62,11 +62,13 @@ external stakeholders
 
 ### University of California, Irvine (UCI)### 
 *Teaching Assistant 2014 – 2019*
+
 <br>
 ## Awards
 - Award for Excellence, *Council of Inspectors General on Integrity & Efficiency* 2025
 - The Antitrust Division Award of Distinction, *US Department of Justice 2024*
 - Exemplary Achievement Award, *US Department of Transportation -Office of Inspector General* 2022
+
 <br>
 ## Contact
 
