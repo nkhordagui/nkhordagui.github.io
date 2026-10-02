@@ -15,19 +15,21 @@ I am a Senior Economist (PhD) at the US Department of Transportation - Office of
 This is a personal account. Any views expressed here are my own and do not necessarily reflect the views or positions of the U.S. Department of Transportation, its Office of Inspector General, or the federal government.
 
 
+## Methods & Skills
 
-## Econometrics & Causal Inference:
-⋄ Causal inference & quasi-experimental design: Difference-in-Differences, Synthetic Control, Synthetic Difference-in-Differences, Instrumental Variables
-⋄ Panel and cross-sectional data analysis; Discrete choice analysis
-⋄ Time-series analysis and forecasting
+### Econometrics & Causal Inference:
+- Causal inference & quasi-experimental design: Difference-in-Differences, Synthetic Control, Synthetic Difference-in-Differences, Instrumental Variables
+- Panel and cross-sectional data analysis; Discrete choice analysis
+- Time-series analysis and forecasting
 
-## Machine Learning & Data Analysis:
-⋄ Supervised and unsupervised machine learning
-⋄ Predictive modeling; Spatial analysis; Network analysis
-⋄ Analysis and management of large, complex datasets
+### Machine Learning & Data Analysis:
+- Supervised and unsupervised machine learning
+- Predictive modeling; Spatial analysis; Network analysis
+- Analysis and management of large, complex datasets
 
-## Programming & Analytical Tools:
-⋄ Python; Stata; SQL; R; ArcGIS
+### Programming & Analytical Tools:
+- Python; Stata; SQL; R; ArcGIS
+
 
 ## Education
 
@@ -36,28 +38,35 @@ This is a personal account. Any views expressed here are my own and do not neces
 - MA, Financial Economics, American University of Beirut
 - BA, Economics, High Distinction, American University of Beirut (minor: Computer Science)
 
+
 ## Experience
 
-US Department of Transportation – Office of Inspector General (USDOT-OIG) 2019 – Present
-Senior Economist (2022 – Present) & Economist (2019 – 2022)
-⋄ Led end-to-end empirical analysis of potentially anticompetitive bidding in federal highway
+### US Department of Transportation – Office of Inspector General (USDOT-OIG) 2019 – Present
+*Senior Economist (2022 – Present) & Economist (2019 – 2022)*
+- Led end-to-end empirical analysis of potentially anticompetitive bidding in federal highway
 procurement using unsupervised machine learning; associated findings identified over $1 billion in
-funds put to better use; recognized with multiple awards including the Antitrust Division Award of
-Distinction (DOJ, 2024)
-⋄ Evaluated sensitivity analyses of financial projections to external factors for FAA’s NextGen aviation
+funds put to better use; recognized with multiple awards including the **Antitrust Division Award of
+Distinction (DOJ, 2024)**
+- Evaluated sensitivity analyses of financial projections to external factors for FAA’s NextGen aviation
 modernization program
-⋄ Identified multiple opportunities to apply quantitative methods, machine learning, and automation to
+- Identified multiple opportunities to apply quantitative methods, machine learning, and automation to
 improve workflow efficiency and strengthen fraud detection; designed the workflow and implemented
 the model estimation tools
-⋄ Translated highly technical econometric and machine learning findings into clear reports and
+- Translated highly technical econometric and machine learning findings into clear reports and
 visualizations for non-technical decision-makers, senior agency leadership, and the public
-⋄ Collaborated in cross-disciplinary teams of economists, statisticians, auditors, and subject-matter
+- Collaborated in cross-disciplinary teams of economists, statisticians, auditors, and subject-matter
 experts; contributed to agency-wide working groups on AI and machine learning adoption
-⋄ Prepared briefs, maps, and geospatial visualizations to communicate findings to internal teams and
+- Prepared briefs, maps, and geospatial visualizations to communicate findings to internal teams and
 external stakeholders
-⋄ Performed spatial analysis and visualizations to uncover structures at risk of flooding
+- Performed spatial analysis and visualizations to uncover structures at risk of flooding
 
-University of California, Irvine (UCI): Teaching Assistant 2014 – 2019
+### University of California, Irvine (UCI)### 
+*Teaching Assistant 2014 – 2019*
+
+## Awards
+- Award for Excellence, *Council of Inspectors General on Integrity & Efficiency* 2025
+- The Antitrust Division Award of Distinction, *US Department of Justice 2024*
+- Exemplary Achievement Award, *US Department of Transportation -Office of Inspector General* 2022
 
 ## Contact
 
