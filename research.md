@@ -5,32 +5,19 @@ title: Research
 
 ## Publications
 
-- [Add publication title here], Journal/Working Paper, Year.
-- [Add second publication title here], Journal/Working Paper, Year.
+- Parking Prices and the Decision to Drive to Work: Evidence from California, *Transportation Research Part A: Policy and Practice*, 130:pp.479-495 (2019).
+
 
 ## Working Papers
 
-- [Working paper title], [Institution or venue], Year.
-- [Second working paper title], [Institution or venue], Year.
+- Airline Mergers & Airport Connectivity, 2026.
+-Airport Catchment Areas and Urban Sectoral Employment, 2025.
+(with Joao Macieira)
+- Determinants of Public Transit Use and the Role of Social Influence, 2019.
 
 ## Work in Progress
 
-- [Project title]: Brief description of the topic, research question, and current stage.
-- [Project title]: Brief description of the topic, research question, and current stage.
-- [Project title]: Brief description of the topic, research question, and current stage.
+- How Do Airline Mergers Impact the Network Structure of Merging Airlines and their Competition?
 
-## Research Interests
 
-- Causal inference and policy evaluation
-- Labor economics and inequality
-- Development and public economics
-- Data science for social impact
-- Applied machine learning for economic analysis
 
-## Methods
-
-- Econometrics and causal identification
-- Statistical modeling and inference
-- Panel data and time-series methods
-- Machine learning and predictive analytics
-- Reproducible research workflows in Python and R
