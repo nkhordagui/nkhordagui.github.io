@@ -60,7 +60,7 @@ experts; contributed to agency-wide working groups on AI and machine learning ad
 external stakeholders
 - Performed spatial analysis and visualizations to uncover structures at risk of flooding
 
-### University of California, Irvine (UCI)### 
+### University of California, Irvine (UCI)
 *Teaching Assistant 2014 – 2019*
 
 <br>
