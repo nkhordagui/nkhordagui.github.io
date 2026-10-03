@@ -7,6 +7,6 @@ title: Projects
 
 ### Project 1
 **Title:**   
-**Description:** 
+**Description:**   
 **GitHub repo:**
 
